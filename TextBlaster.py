@@ -1,6 +1,6 @@
 import os
 import pyautogui
-import pyperclip  # For copying to clipboard
+import pyperclip  
 import time
 
 # File path
