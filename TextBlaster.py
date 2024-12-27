@@ -4,7 +4,7 @@ import pyperclip  # For copying to clipboard
 import time
 
 # File path
-file_path = "C:/Users/wenzen-dev/textfile.txt"
+file_path = "file.txt"
 
 # Check if the file exists
 if not os.path.exists(file_path):
