@@ -16,7 +16,7 @@ TextBlaster is a Python script designed to automate the process of sending lines
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TextBlaster.git
+   git clone https://github.com/webzen-dev/TextBlaster.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -43,7 +43,6 @@ TextBlaster is a Python script designed to automate the process of sending lines
 Suppose your `tld.txt` file contains the following lines:
 ```
 Hello, this is the first message.
-https://example.com
 Automation is fun!
 ```
 The program will sequentially send each line to the active input field, pressing `Enter` after each one.
@@ -66,5 +65,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions and improvements.
 
 ## Author
-[Your Name](https://github.com/yourusername)
-
+https://github.com/webzen-dev
